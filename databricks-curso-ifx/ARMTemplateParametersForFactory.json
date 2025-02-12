@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-curso-ifx"
+		},
+		"databricks_datafactory_curso_accessToken": {
+			"value": ""
+		},
+		"databricks_datafactory_curso_properties_typeProperties_existingClusterId": {
+			"value": "0211-230924-jxzu7qjq"
+		}
+	}
+}
