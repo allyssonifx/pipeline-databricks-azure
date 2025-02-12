@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-ifx",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c589d3c8-83d6-4b07-a70c-3443d7dff58f",
+		"tenantId": "0f2f0020-e773-4003-bb77-93cd840f260f"
+	}
+}
